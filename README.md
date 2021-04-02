@@ -8,5 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: forbu14@gmail.com
 - ⚡ Fun fact: I learn all of ML stuff on the internet
 
+I love reinforcement learning ! 
+Currently I try to solve rubik's cube with RL :)
 
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving the Radio Network with IA
+- 🔭 I’m currently working on improving the Radio Network with AI
 - 🌱 I’m currently learning NLP and stuff
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about deep learning and machine learning

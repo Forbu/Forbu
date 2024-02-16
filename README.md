@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I learn all of ML stuff on the internet
 
 I love RL and NN stuff !
+
+You can check my website here : https://forbu.github.io/
